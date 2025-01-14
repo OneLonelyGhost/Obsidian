@@ -1,13 +1,13 @@
 ---
-title: "The IT asset management process - Fundamentals of IT asset management | IT | Lesson | QA Platform"
-source: "https://app.qa.com/course/fundamentals-it-asset-management-it-1698/it-asset-management-process/?context_id=13246&context_resource=lp"
+title: The IT asset management process - Fundamentals of IT asset management | IT | Lesson | QA Platform
+source: https://app.qa.com/course/fundamentals-it-asset-management-it-1698/it-asset-management-process/?context_id=13246&context_resource=lp
 author:
-  - "[[QA Platform]]"
-published:
+  - "[[IT Asset Management]]"
+published: 
 created: 2024-12-19
-description: "The IT asset management process - Fundamentals of IT asset management | IT | lesson from QA Platform. Start learning today with our digital training solutions."
+description: The IT asset management process - Fundamentals of IT asset management | IT | lesson from QA Platform. Start learning today with our digital training solutions.
 tags:
-  - "clippings"
+  - clippings
 ---
 Speaker1: It is imperative that every IT asset is managed properly, to ensure that it's being utilised effectively. An IT asset can be defined as any financial valuable resource, component, or capability that can contribute in some way to the delivery of a service or product. What constitutes an IT asset will be decided and documented to ensure consistency. As IT assets are generally something that have an agreed financial value, anything above this value will be an IT asset, and therefore registered in the asset register. Let's now look at how to manage and control IT assets, by working through the four key stages.  
 

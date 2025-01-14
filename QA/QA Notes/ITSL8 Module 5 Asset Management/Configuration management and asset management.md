@@ -1,13 +1,13 @@
 ---
-title: "Configuration management and asset management - Introduction to IT asset management | IT | Lesson | QA Platform"
-source: "https://app.qa.com/course/introduction-it-asset-management-it-1698/configuration-management-and-asset-management/?context_id=13246&context_resource=lp"
+title: Configuration management and asset management - Introduction to IT asset management | IT | Lesson | QA Platform
+source: https://app.qa.com/course/introduction-it-asset-management-it-1698/configuration-management-and-asset-management/?context_id=13246&context_resource=lp
 author:
-  - "[[QA Platform]]"
-published:
+  - "[[IT Asset Management]]"
+published: 
 created: 2024-12-19
-description: "Configuration management and asset management - Introduction to IT asset management | IT | lesson from QA Platform. Start learning today with our digital training solutions."
+description: Configuration management and asset management - Introduction to IT asset management | IT | lesson from QA Platform. Start learning today with our digital training solutions.
 tags:
-  - "clippings"
+  - clippings
 ---
 **So, what is the relationship between IT asset management and configuration management?** 
 

@@ -1,13 +1,13 @@
 ---
-title: "The scoping of asset management - Fundamentals of IT asset management | IT | Lesson | QA Platform"
-source: "https://app.qa.com/course/fundamentals-it-asset-management-it-1698/scoping-asset-management/?context_id=13246&context_resource=lp"
+title: The scoping of asset management - Fundamentals of IT asset management | IT | Lesson | QA Platform
+source: https://app.qa.com/course/fundamentals-it-asset-management-it-1698/scoping-asset-management/?context_id=13246&context_resource=lp
 author:
-  - "[[QA Platform]]"
-published:
+  - "[[IT Asset Management]]"
+published: 
 created: 2024-12-19
-description: "The scoping of asset management - Fundamentals of IT asset management | IT | lesson from QA Platform. Start learning today with our digital training solutions."
+description: The scoping of asset management - Fundamentals of IT asset management | IT | lesson from QA Platform. Start learning today with our digital training solutions.
 tags:
-  - "clippings"
+  - clippings
 ---
 **Where do you start with scoping IT asset management? What should you consider? Here, you’ll find out about some of the factors that will help your decision-making.** 
 

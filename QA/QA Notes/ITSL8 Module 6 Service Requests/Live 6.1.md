@@ -1,0 +1,63 @@
+# Intro
+Charlie, I use they/them pronouns
+I work at Dunedin IT, Edinburgh based MSP
+My main role is 1st line engineer so answering phone calls, sorting tickets
+Looking to better understand the different stages of service requests and when things should be escalated 
+
+
+> [!NOTE] # Live event schedule for Day 1
+> There will be several comfort breaks throughout the day, as well as a lunch break. The trainer will provide you with the timings of these at the start of your event.
+
+During your Live event, you will be reminded of the topics that were covered in the Discover stage and have the opportunity to practise by participating in a number of guided and self-study activities.   
+
+Below are the topics you will cover in Day 1. 
+
+There will be several comfort breaks throughout the day, as well as a lunch break. The trainer will provide you with the timings of these at the start of your event. 
+
+### AM session
+
+**Welcome and introduction**
+
+Your trainer will welcome you to the Live event and check that you have access to the software, hardware, and any other content that you need to be able to complete this event.
+
+**Learning outcomes and module recap**
+
+The tutor will remind you of the learning and revisit the content that you covered during the Discover stage of this module.
+
+**Miro Board activities**
+
+You will then move on to complete several group and team activities:
+
+- Activity 1: Service support processes
+- Activity 2: Service desk
+- Activity 3: Incident management process
+- Activity 4: Change enablement
+- Activity 5: Service request management process
+
+### PM session
+
+**Miro Board activities**
+
+After lunch you will continue with the following activities:
+
+- Activity 6: Service request management – tickets
+- Activity 7: Service request management – continual improvement
+
+**Knowledge Check**
+
+Your final group activity will be to consolidate your understanding by answering a series of questions.
+
+**Retrospective**
+
+You will now have the opportunity to think about:
+
+- What went well?
+- What was interesting?
+- What could have been better?
+- Any other comments?
+
+**Recap on what you have learnt today, and question and answer session**
+
+There will be a summary overview of what has been covered throughout the day. You can also ask any questions you might have.
+
+![[Pasted image 20250114100819.png]]

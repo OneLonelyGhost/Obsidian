@@ -1,0 +1,1 @@
+Code, whether created through traditional application development activities or used to modify IT assets, such as infrastructure as code (IaC), is a strategic technology investment and may be treated as an IT asset unto itself.  

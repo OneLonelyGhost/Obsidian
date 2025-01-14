@@ -1,0 +1,42 @@
+---
+title: "PowerShell Pipelines - PowerShell Byte Session Lesson | QA Platform"
+source: "https://app.qa.com/course/powershell-byte-session-1477/powershell-pipelines/?context_id=12176&context_resource=lp"
+author:
+  - "[[QA Platform]]"
+published:
+created: 2025-01-08
+description: "PowerShell Pipelines - PowerShell Byte Session lesson from QA Platform. Start learning today with our digital training solutions."
+tags:
+  - "clippings"
+---
+We've seen PowerShell pipelines in action already but we haven't taken the time to understand what's going on. In this lesson, we'll understand more about how PowerShell pipelines work and we'll learn a few more commandlets that are commonly used with pipelines and demonstrate how easy it is to create powerful commands by using pipelines.
+
+For this lesson assume that we're interested in creating a report that will list processes that have the highest amount of CPU time among processes that use more than a certain threshold for memory. In earlier lessons, we saw that to Get\_Process commandlet can be used to list processes. In the output, the WS column refers to the working set, which relates to how much memory of the process is using. The CPU column shows the number of seconds that the process is using the CPU. These two columns, give us the information that we need to create the report. This is where things start to get interesting.
+
+If you use the other cells before you might be tempted to think that Get\_process simply writes text to the screen. However, in PowerShell, the commandlets are actually using objects. Objects, give structure to the data. Each object has a specific type and each type has associated properties and methods. We'll see soon that this makes it very easy to do things with the output of commandlets.
+
+To prove to you that Get\_process is outputting objects and not simply writing text to the screen, we can use the Get\_Member commandlet. There's also the GM alias for Get\_Member if you wanna save some typing. The output begins by stating the type name, which is the type of objects that's being output by Get\_Process. Below that is all of the available properties and methods associated with that type of object. The system that diagnostic step process type comes from the .net framework.
+
+Although we won't get into details of.net it's useful to know that PowerShell is built on top of the .net framework. If you've ever written programs with C# or F#, you've used .net before. Properties of objects they're simply values associated with an object. You can identify properties by looking at the member type column and seeing which ones contain that word property. For example, we can see that alias property is the member type of the first few rows in the table.
+
+An example of a property that we've seen is also there that WS AliasProperty is defined as the working set. Methods or pieces of code that you can run using the object. If I page down in the output, we can see the Kill method. In our example, each object is a process. So if we call the Kill Method, we would kill the process causing it to terminate. As you can see from this output, there's a lot more properties than what you saw in the default output of the Get\_process commandlet.
+
+Whenever you use Get\_Process, you have access to all of these properties and methods not only what's displayed in that default table. You can start to see how much more powerful it is to have objects compared to just text. I'll quit paging include the screen. To give you an example of how to access properties of Get\_Process, you can enclose the get process commandlet in parentheses. This causes the Get\_Process command to complete before evaluating the rest of the command. You can think of the parentheses as containing the results of Get\_Process.
+
+Now we can use the .operator to access the properties of the result, and we can press Tab to see all the possible completions. So that list of completions is the properties and methods for the process objects. Just as an example, let's take a look at the virtual memory size. The virtual memory size wasn't included in the original table of Get\_Process, but we can see here that we do have access to all those properties. Where this relates to pipelines is that when I describe a pipeline it's the first command sending its output to the input of the next command. The output is actually the objects, not simply text and we can access all of those properties in the second command. This will all become clear as we do more and more examples with pipelines.
+
+So for our report, let's say that we interested only in the name, the Id, the working set memory and the CPU usage, we don't need all the other properties. The way that we can do this is by using the Select-Object commandlet. You can also simply write Select which is an alias for Select-Object and it behaves similar to select in SQL queries. You can provide it with the list of properties that you're interested in. All of the other properties will be removed and you'll be left with objects that only have the properties that you specify.
+
+So we're interested in the Name, Id, Working Set and CPU. You can see that tap completion also works here, if you did forget the name of a property. But now if I press Enter, you will see that the OPA displays only those properties. And if I were to pipe the output, we can see that only those four properties are included along with the default format sets that are always available for objects.
+
+So now we've isolated the properties that we're interested in. The next step is to get the processes that use at least the minimum threshold for memory. Let's say we're interested in processes that use at least one megabyte. For that, we can use Where-Object. You can also use the alias Where, or simply a question mark which is another alias for Where-Object. With Where-Object, you can specify conditions and any objects that don't meet those conditions will be removed.
+
+We use the properties of the objects to define the conditions. So we're interested in the working set memory and we want it to be greater than or equal to one megabyte. So with this condition, any process object with less than one megabyte for its working set will be removed. And if I reissue the previous command you can see that one of the processes was removed, the SH process, which does use less than one megabyte. Here the WS column is in bytes. And one megabyte is a bit more than 1 million bytes. So because SH is only using 757,000 bytes, it gets removed by the Where-Object condition.
+
+Next for our report, we're interested in the processes that use the most CPU. We can order the processes by CPU, by using the Sort-Object commandlet. Sort-Object also has an alias Sort because we're interested in processes using the most CPU, we'll sort by CPU, which is the property name. For the report, we want the highest CPU to be listed first. So that'll be a descending Sort. So we'll use the descending parameter to have the highest CPU listed first. So then we have our report, which lists the high CPU processes first of all the processes using more than one megabyte of memory.
+
+Now let's say that we're really only interested in the top two. The third object has a parameter for that called Top and then we have our final report accomplished using the power or PowerShell pipelines and a few commandlets. However, if we want to share this report with someone, it's not the most useful way because they'd have to have access to PowerShell on the same server. We can do more pipeline stages along with a couple more commandlets to make this much more easy to share.
+
+I'll use the ConvertToHtml commandlet to convert a list of objects into an HTML table and I'll save the result out to a file that I'll call report.html. In practice, you could say that HTML to a directory that's being served by web server. However, for this course, we'll just save it to our home directory and I'll use Azure cloud sales download feature to show you the result. And then we have it a report shared using HTML. Not bad for a couple minutes of work.
+
+There's a lot more that you can do with PowerShell pipelines but I hope this lesson has helped to show you the strength of PowerShell pipelines and how easy it is to work with objects compared to text. Join me for the next lesson where we'll wrap up this course.

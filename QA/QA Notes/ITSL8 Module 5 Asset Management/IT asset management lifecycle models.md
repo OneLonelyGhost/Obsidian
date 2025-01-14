@@ -1,13 +1,13 @@
 ---
-title: "IT asset management lifecycle models - Fundamentals of IT asset management | IT | Lesson | QA Platform"
-source: "https://app.qa.com/course/fundamentals-it-asset-management-it-1698/it-asset-management-lifecycle-models/?context_id=13246&context_resource=lp"
+title: IT asset management lifecycle models - Fundamentals of IT asset management | IT | Lesson | QA Platform
+source: https://app.qa.com/course/fundamentals-it-asset-management-it-1698/it-asset-management-lifecycle-models/?context_id=13246&context_resource=lp
 author:
-  - "[[QA Platform]]"
-published:
+  - "[[IT Asset Management]]"
+published: 
 created: 2024-12-19
-description: "IT asset management lifecycle models - Fundamentals of IT asset management | IT | lesson from QA Platform. Start learning today with our digital training solutions."
+description: IT asset management lifecycle models - Fundamentals of IT asset management | IT | lesson from QA Platform. Start learning today with our digital training solutions.
 tags:
-  - "clippings"
+  - clippings
 ---
 **Once you have established asset types, you need to create models to ensure that they are dealt with consistently.** 
 

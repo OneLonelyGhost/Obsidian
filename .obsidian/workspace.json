@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "5c1a58b071b48e33",
+    "type": "split",
+    "children": [
+      {
+        "id": "eebd01fe491700cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4f18454f67d47e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QA/QA Notes/ITSL8 Module 6 Service Requests/Live 6.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Live 6.1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69045893e3c484c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2ecdd0cd9085c20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7067937e8ccf3a8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "635a6d0726090365",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8620328896545993",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 705.5
+  },
+  "right": {
+    "id": "a3f028b4518b1bd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7956cae5e97f4939",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "358af78757ef1ced",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "26d4d9f92cfba497",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1073411215ca6d0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c6f947d5953f51fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clippings/Producing reports for asset management - Reporting  IT  Lesson  QA Platform.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Producing reports for asset management - Reporting  IT  Lesson  QA Platform"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a4f18454f67d47e9",
+  "lastOpenFiles": [
+    "Pasted image 20250114100819.png",
+    "Clippings/Remote support - The management of the service request management practice part 1  ITSL8  Lesson  QA Platform.md",
+    "QA/QA Notes/ITSL8 Module 6 Service Requests/Personal reflection  ITSL8   QA Platform.md",
+    "QA/QA Notes/ITSL8 Module 6 Service Requests/Out of hours support - The management of the service request management practice part 1  ITSL8  Lesson  QA Platform.md",
+    "QA/QA Notes/ITSL8 Module 6 Service Requests/Monitoring trends - The management of the service request management practice part 2  ITSL8  Lesson  QA Platform.md",
+    "QA/QA Notes/ITSL8 Module 6 Service Requests/Legal requirements and considerations - The management of the service request management practice part 2  ITSL8  Lesson  QA Platform.md",
+    "QA/QA Notes/ITSL8 Module 6 Service Requests/Escalating issues - The management of the service request management practice part 1  ITSL8  Lesson  QA Platform.md",
+    "QA/QA Notes/ITSL8 Module 6 Service Requests/Dealing with service requests  ITSL8  Lesson  QA Platform.md",
+    "QA/QA Notes/ITSL8 Module 6 Service Requests/Continual improvement - The management of the service request management practice part 2  ITSL8  Lesson  QA Platform.md",
+    "QA/QA Notes/ITSL8 Module 6 Service Requests/Activity Triaging service requests - Dealing with service requests  ITSL8  Lesson  QA Platform.md",
+    "Clippings/Out of hours support - The management of the service request management practice part 1  ITSL8  Lesson  QA Platform.md",
+    "QA/QA Notes/ITSL8 Module 3 Scripting/Comments, approval, and scripting performance.md",
+    "Clippings/Personal reflection  ITSL8   QA Platform.md",
+    "Clippings/Legal requirements and considerations - The management of the service request management practice part 2  ITSL8  Lesson  QA Platform.md",
+    "Clippings/Service level agreements - The management of the service request management practice part 2  ITSL8  Lesson  QA Platform.md",
+    "Clippings/Continual improvement - The management of the service request management practice part 2  ITSL8  Lesson  QA Platform.md",
+    "Clippings/Monitoring trends - The management of the service request management practice part 2  ITSL8  Lesson  QA Platform.md",
+    "Clippings/The management of the service request management practice part 2  ITSL8  Lesson  QA Platform.md",
+    "QA/QA Notes/ITSL8 Module 6 Service Requests/Live 6.1.md",
+    "Software licensing.md",
+    "Clippings/The different support channels - The management of the service request management practice part 1  ITSL8  Lesson  QA Platform.md",
+    "Clippings/Escalating issues - The management of the service request management practice part 1  ITSL8  Lesson  QA Platform.md",
+    "Clippings/Activity Triaging service requests - Dealing with service requests  ITSL8  Lesson  QA Platform.md",
+    "Clippings/Triaging service requests - Dealing with service requests  ITSL8  Lesson  QA Platform.md",
+    "Clippings/Dealing with service requests  ITSL8  Lesson  QA Platform.md",
+    "QA/QA Notes/ITSL8 Module 3 Scripting/PowerShell Byte Session Lesson  QA Platform.md",
+    "QA/QA Notes/ITSL8 Module 6 Service Requests",
+    "QA/QA Notes/ITSL8 Module 3 Scripting",
+    "Clippings",
+    "QA/QA Notes/Clippings",
+    "Pasted image 20241220141632.png"
+  ]
+}

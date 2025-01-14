@@ -1,13 +1,13 @@
 ---
-title: "The IT asset lifecycle - Fundamentals of IT asset management | IT | Lesson | QA Platform"
-source: "https://app.qa.com/course/fundamentals-it-asset-management-it-1698/it-asset-lifecycle/?context_id=13246&context_resource=lp"
+title: The IT asset lifecycle - Fundamentals of IT asset management | IT | Lesson | QA Platform
+source: https://app.qa.com/course/fundamentals-it-asset-management-it-1698/it-asset-lifecycle/?context_id=13246&context_resource=lp
 author:
-  - "[[QA Platform]]"
-published:
+  - "[[IT Asset Management]]"
+published: 
 created: 2024-12-19
-description: "The IT asset lifecycle - Fundamentals of IT asset management | IT | lesson from QA Platform. Start learning today with our digital training solutions."
+description: The IT asset lifecycle - Fundamentals of IT asset management | IT | lesson from QA Platform. Start learning today with our digital training solutions.
 tags:
-  - "clippings"
+  - clippings
 ---
 **So, how can you track the journey of an IT asset? The IT asset lifecycle explains the different stages an asset passes through.** 
 
