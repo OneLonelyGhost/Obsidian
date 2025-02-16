@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eebd01fe491700cf",
+        "id": "8d5ca029677899cb",
         "type": "tabs",
         "children": [
           {
-            "id": "a4f18454f67d47e9",
+            "id": "8d4a86acb24a343f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA/QA Notes/ITSL8 Module 6 Service Requests/Live 6.1.md",
+                "file": "QA Notes/ITSL8 Module 6 Service Requests/Reflection and next steps  ITSL8  Lesson  QA Platform.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Live 6.1"
+              "title": "Reflection and next steps  ITSL8  Lesson  QA Platform"
             }
           }
         ]
@@ -56,8 +56,8 @@
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "extraContext": true,
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 705.5
+    "width": 698.5
   },
   "right": {
     "id": "a3f028b4518b1bd7",
@@ -160,38 +160,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4f18454f67d47e9",
+  "active": "7067937e8ccf3a8f",
   "lastOpenFiles": [
+    "QA Notes/ ITSL8 Module 7 Digital Transformation/Benefits of digital transformation Lesson  QA Platform.md",
+    "QA Notes/ITSL8 Module 6 Service Requests/Reflection and next steps  ITSL8  Lesson  QA Platform.md",
+    "QA Notes/ ITSL8 Module 7 Digital Transformation/Digital transformation further reading (optional) - Benefits of digital transformation Lesson  QA Platform.md",
+    "QA Notes/ ITSL8 Module 7 Digital Transformation/Digital transformation-related risks - Behaviours, risks, and ethics Lesson  QA Platform.md",
+    "QA Notes/ ITSL8 Module 7 Digital Transformation/Organisational view of business processes using SIPOC - Business process modelling as part of change Lesson  QA Platform.md",
+    "QA Notes/ ITSL8 Module 7 Digital Transformation/Reflection activity Risk management - Behaviours, risks, and ethics Lesson  QA Platform.md",
+    "QA Notes/ ITSL8 Module 7 Digital Transformation/Behaviours, risks, and ethics Lesson  QA Platform.md",
+    "QA Notes/ ITSL8 Module 7 Digital Transformation/External factors Lesson  QA Platform.md",
+    "QA Notes/ ITSL8 Module 7 Digital Transformation/Legislation relevant to digital technology related change - External factors Lesson  QA Platform.md",
+    "QA Notes/ ITSL8 Module 7 Digital Transformation/Reflection activity External factors - External factors Lesson  QA Platform.md",
+    "QA Notes/ ITSL8 Module 7 Digital Transformation/Other UK laws relevant to data handling - External factors Lesson  QA Platform.md",
+    "QA Notes/ ITSL8 Module 7 Digital Transformation/Human Rights Act 1998 - External factors Lesson  QA Platform.md",
+    "QA Notes/ ITSL8 Module 7 Digital Transformation/Producing business cases for digital transformation - Benefits of digital transformation Lesson  QA Platform.md",
+    "QA Notes/ ITSL8 Module 7 Digital Transformation/Measuring the benefits of digital transformation - Benefits of digital transformation Lesson  QA Platform.md",
+    "QA Notes/ ITSL8 Module 7 Digital Transformation/Ethical aspects as part of digital transformation - Behaviours, risks, and ethics Lesson  QA Platform.md",
+    "QA Notes/ ITSL8 Module 7 Digital Transformation/Enterprise level process modelling - Business process modelling as part of change Lesson  QA Platform.md",
+    "QA Notes/Terms/[software.md",
+    "QA Notes/Terms/software.md",
+    "QA Notes/Terms/QA Platform.md",
+    "QA Notes/Terms/IT Asset Management.md",
+    "QA Notes/Terms/hardware.md",
+    "QA Notes/Terms/data.md",
+    "QA Notes/Terms/code.md",
+    "QA Notes/ITSL8 Module 6 Service Requests/Triaging service requests - Dealing with service requests  ITSL8  Lesson  QA Platform.md",
+    "QA Notes/Terms/cloud services.md",
+    "QA Notes/ITSL8 Module 6 Service Requests/The management of the service request management practice part 2  ITSL8  Lesson  QA Platform.md",
+    "QA Notes/Terms",
+    "QA Notes/ITSL8 Module 6 Service Requests",
+    "QA Notes/ITSL8 Module 5 Asset Management",
+    "QA Notes/ITSL8 Module 3 Scripting",
+    "QA Notes/ ITSL8 Module 7 Digital Transformation",
+    "QA Notes",
+    "Broken/QA Notes/ITSL8 Module 7 Digital Transformation",
+    "Broken/QA Notes/Terms",
+    "Broken/QA Notes/ITSL8 Module 6 Service Requests",
+    "Broken/QA Notes/ITSL8 Module 3 Scripting",
+    "Pasted image 20250114114227.png",
     "Pasted image 20250114100819.png",
-    "Clippings/Remote support - The management of the service request management practice part 1  ITSL8  Lesson  QA Platform.md",
-    "QA/QA Notes/ITSL8 Module 6 Service Requests/Personal reflection  ITSL8   QA Platform.md",
-    "QA/QA Notes/ITSL8 Module 6 Service Requests/Out of hours support - The management of the service request management practice part 1  ITSL8  Lesson  QA Platform.md",
-    "QA/QA Notes/ITSL8 Module 6 Service Requests/Monitoring trends - The management of the service request management practice part 2  ITSL8  Lesson  QA Platform.md",
-    "QA/QA Notes/ITSL8 Module 6 Service Requests/Legal requirements and considerations - The management of the service request management practice part 2  ITSL8  Lesson  QA Platform.md",
-    "QA/QA Notes/ITSL8 Module 6 Service Requests/Escalating issues - The management of the service request management practice part 1  ITSL8  Lesson  QA Platform.md",
-    "QA/QA Notes/ITSL8 Module 6 Service Requests/Dealing with service requests  ITSL8  Lesson  QA Platform.md",
-    "QA/QA Notes/ITSL8 Module 6 Service Requests/Continual improvement - The management of the service request management practice part 2  ITSL8  Lesson  QA Platform.md",
-    "QA/QA Notes/ITSL8 Module 6 Service Requests/Activity Triaging service requests - Dealing with service requests  ITSL8  Lesson  QA Platform.md",
-    "Clippings/Out of hours support - The management of the service request management practice part 1  ITSL8  Lesson  QA Platform.md",
-    "QA/QA Notes/ITSL8 Module 3 Scripting/Comments, approval, and scripting performance.md",
-    "Clippings/Personal reflection  ITSL8   QA Platform.md",
-    "Clippings/Legal requirements and considerations - The management of the service request management practice part 2  ITSL8  Lesson  QA Platform.md",
-    "Clippings/Service level agreements - The management of the service request management practice part 2  ITSL8  Lesson  QA Platform.md",
-    "Clippings/Continual improvement - The management of the service request management practice part 2  ITSL8  Lesson  QA Platform.md",
-    "Clippings/Monitoring trends - The management of the service request management practice part 2  ITSL8  Lesson  QA Platform.md",
-    "Clippings/The management of the service request management practice part 2  ITSL8  Lesson  QA Platform.md",
-    "QA/QA Notes/ITSL8 Module 6 Service Requests/Live 6.1.md",
-    "Software licensing.md",
-    "Clippings/The different support channels - The management of the service request management practice part 1  ITSL8  Lesson  QA Platform.md",
-    "Clippings/Escalating issues - The management of the service request management practice part 1  ITSL8  Lesson  QA Platform.md",
-    "Clippings/Activity Triaging service requests - Dealing with service requests  ITSL8  Lesson  QA Platform.md",
-    "Clippings/Triaging service requests - Dealing with service requests  ITSL8  Lesson  QA Platform.md",
-    "Clippings/Dealing with service requests  ITSL8  Lesson  QA Platform.md",
-    "QA/QA Notes/ITSL8 Module 3 Scripting/PowerShell Byte Session Lesson  QA Platform.md",
-    "QA/QA Notes/ITSL8 Module 6 Service Requests",
-    "QA/QA Notes/ITSL8 Module 3 Scripting",
-    "Clippings",
-    "QA/QA Notes/Clippings",
     "Pasted image 20241220141632.png"
   ]
 }
