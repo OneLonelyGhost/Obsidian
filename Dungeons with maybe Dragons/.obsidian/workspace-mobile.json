@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory.md",
+                "file": "Spells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backstory"
+              "title": "Spells"
             }
           },
           {
@@ -212,10 +212,13 @@
   },
   "active": "6f56b71073c05b8b",
   "lastOpenFiles": [
-    "Features and Traits.md",
-    "Notes.md",
     "Backstory.md",
     "Spells.md",
+    "Backstory (1).md",
+    "Features and Traits.md",
+    "Features and Traits (1).md",
+    "Spells (1).md",
+    "Notes.md",
     "Main.md",
     "SmartSelect_20250212_183801_Fifth Edition Character Sheet.jpg",
     "SmartSelect_20250212_183538_Fifth Edition Character Sheet.jpg"
