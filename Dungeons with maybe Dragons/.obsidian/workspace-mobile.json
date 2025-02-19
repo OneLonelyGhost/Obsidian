@@ -161,8 +161,8 @@
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": false
           },
           "icon": "links-coming-in",
           "title": "Backlinks"
